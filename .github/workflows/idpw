@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"                                        
 
-#EXTM3U billed-msg="BUY DI SHOPEE PowerTech SAHAJA - SHOPEE LAIN ID BANNED"
+#EXTM3U billed-msg="**BUY DI SHOPEE PowerTech SAHAJA - SHOPEE LAIN ID BANNED"
 ################### ID BANNED JIKA TAK BELI DI PowerTech SHOPEE  #######################
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="ID BANNED JIKA TAK BELI DI PowerTech SHOPEE)" group-logo="https://i.ibb.co/prw7m1Q/Logo-Maker-Ca-1686659549971.jpg" tvg-logo="https://i.ibb.co/prw7m1Q/Logo-Maker-Ca-1686659549971.jpg", BUY DI SHOPEE PowerTech SAHAJA 
@@ -12476,4 +12476,3 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rikelhSG5fVT8NwcTnZQqg","kid":"DFM/jwb8Vju85FEYV/RobQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/MYS_index.mpd
-
